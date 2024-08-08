@@ -1,4 +1,4 @@
-# Serverless Subtitles
+# Serverless Subtitles from rsc
 
 Serverless Subtitles is a demonstration project which allows you to prove the
 usage of several AWS Products.
