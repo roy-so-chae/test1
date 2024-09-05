@@ -1,4 +1,5 @@
 # Serverless Subtitles from rsc
+# git hub test file & manual
 
 Serverless Subtitles is a demonstration project which allows you to prove the
 usage of several AWS Products.
